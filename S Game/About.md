@@ -62,4 +62,4 @@ v7.56.4.6 First release
 
 FUTURE PLANS
 
-v10.90.?.?
+v10.90.?.? Final release
